@@ -1,6 +1,6 @@
 # Geometric Shape Modeling – Mesh Reconstruction
 
-> **To get started:** Clone this repository then issue
+> **To get started:** Clone (**do not fork publicly**) this repository
 > 
 >     git clone --recursive https://github.com/odedstein/fs-2024-csci-599-exercise-2.git
 >
